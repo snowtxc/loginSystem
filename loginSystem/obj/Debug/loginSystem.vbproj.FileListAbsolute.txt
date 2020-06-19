@@ -1,0 +1,17 @@
+C:\Users\snowi\source\repos\loginSystem\loginSystem\bin\Debug\loginSystem.exe.config
+C:\Users\snowi\source\repos\loginSystem\loginSystem\bin\Debug\loginSystem.exe
+C:\Users\snowi\source\repos\loginSystem\loginSystem\bin\Debug\loginSystem.pdb
+C:\Users\snowi\source\repos\loginSystem\loginSystem\bin\Debug\loginSystem.xml
+C:\Users\snowi\source\repos\loginSystem\loginSystem\obj\Debug\loginSystem.vbprojAssemblyReference.cache
+C:\Users\snowi\source\repos\loginSystem\loginSystem\obj\Debug\loginSystem.Resources.resources
+C:\Users\snowi\source\repos\loginSystem\loginSystem\obj\Debug\loginSystem.vbproj.GenerateResource.cache
+C:\Users\snowi\source\repos\loginSystem\loginSystem\obj\Debug\loginSystem.vbproj.CoreCompileInputs.cache
+C:\Users\snowi\source\repos\loginSystem\loginSystem\obj\Debug\loginSystem.exe
+C:\Users\snowi\source\repos\loginSystem\loginSystem\obj\Debug\loginSystem.xml
+C:\Users\snowi\source\repos\loginSystem\loginSystem\obj\Debug\loginSystem.pdb
+C:\Users\snowi\source\repos\loginSystem\loginSystem\obj\Debug\loginSystem.FormLogin.resources
+C:\Users\snowi\source\repos\loginSystem\loginSystem\obj\Debug\loginSystem.FormRegister.resources
+C:\Users\snowi\source\repos\loginSystem\loginSystem\bin\Debug\MySql.Data.dll
+C:\Users\snowi\source\repos\loginSystem\loginSystem\bin\Debug\MySql.Data.xml
+C:\Users\snowi\source\repos\loginSystem\loginSystem\obj\Debug\loginSystem.vbproj.CopyComplete
+C:\Users\snowi\source\repos\loginSystem\loginSystem\obj\Debug\loginSystem.frmMain.resources
