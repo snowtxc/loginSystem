@@ -13,12 +13,35 @@ Public Class frmMain
 
         conexion = New MySqlConnection
 
+
+
         conexion.ConnectionString = "server=localhost; database=usuario_roles;Uid=root;Pwd=;"
 
 
+        '  If (rol = 1) Then
+        '  Panel1.Visible = True
+        'Panel2.Visible = False
+        'ElseIf (rol = 2) Then
+        '    Label4.Text = "Bienvenido "
+        '
+        '    Panel2.Visible = True
+        '    Panel1.Visible = False
+        '
+        'ElseIf (rol = 3) Then
+        '
+        '    Label4.Text = "Bienvenido "
+        '    Panel2.Visible = True
+        '    Panel1.Visible = False
+        '
+        'Else
+        '    MsgBox("error")
+        '
+        '
+        'End If
+        '
+
 
     End Sub
-
 
 
 
@@ -80,12 +103,13 @@ Public Class frmMain
         End If
     End Sub
 
+    Friend Sub Show()
+        Throw New NotImplementedException()
+    End Sub
 
-
-
-
-
-
+    Friend Sub Show(v1 As Short, v2 As String)
+        Throw New NotImplementedException()
+    End Sub
 
     Private Sub frmMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         ActualizarSelect()
@@ -258,6 +282,10 @@ Public Class frmMain
     End Sub
 
     Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs) Handles TextBox2.TextChanged
+
+    End Sub
+
+    Private Sub Panel2_Paint(sender As Object, e As PaintEventArgs) Handles Panel2.Paint
 
     End Sub
 End Class

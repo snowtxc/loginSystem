@@ -104,8 +104,7 @@ Public Class FormRegister
 
 
             If (reader.HasRows) Then
-                Dim frmMain As New frmMain
-                frmMain.Show()
+                MsgBox("Este nombre de usuario ya existe")
 
 
             Else
